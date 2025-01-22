@@ -13,7 +13,7 @@ A Laravel project to manage products and product categories, featuring:
 
 ## Installation
 1. Clone the repository:
-- git clone https://github.com/<username>/laravel-product-management.git
+- git clone https://github.com/VishalBabuBaraiya/laravel-demo.git
 - cd laravel-product-management
 - composer update
 - php artisan products:deactivate-old-socks
