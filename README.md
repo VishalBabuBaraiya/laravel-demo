@@ -9,7 +9,7 @@ A Laravel project to manage products and product categories, featuring:
 - PHP >= 8.0
 - Composer
 - Laravel 10.x
-- SQLite, MySQL, or other supported databases
+- MySQL >= 8.0
 
 ## Installation
 1. Clone the repository:
